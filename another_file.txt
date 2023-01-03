@@ -1,1 +1,2 @@
 新規ファイル
+pull時のrebase用
