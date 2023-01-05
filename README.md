@@ -1,2 +1,2 @@
 ローカル上で更新(conflict-remote)
-rebase-practiceブランチで更新(rebase用)
+mainブランチで更新(stash用)
